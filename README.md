@@ -48,5 +48,5 @@ Busco oportunidades de aprendizado, projetos colaborativos e experiências que c
 
 ## Contato
 
-- **GitHub:** [Meu perfil no GitHub](https://github.com/SEU-USUARIO)
-- **LinkedIn:** [Meu perfil no LinkedIn](LINK-DO-LINKEDIN)
+- **GitHub:** https://github.com/BrenoFonseca4
+
